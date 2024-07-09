@@ -1,0 +1,12 @@
+{
+    "dart.flutterSdkPath": "/Users/sayed/Desktop/devs/flutter",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+      },
+      "editor.formatOnSave": true,
+      "dart.flutterScreenshotPath": null,
+      "dartImport.fixOnSave": true,
+      "workbench.editor.wrapTabs": true,
+      "workbench.editor.pinnedTabSizing": "normal",
+      "workbench.editor.scrollToSwitchTabs": false
+    }
